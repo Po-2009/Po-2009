@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Polad
 - 👀 I’m interested in C++, C, Python, QT, QML, SQL, MySQL, DevOps, Zsh, Linux, Unreal Engine, Rust
-- 🌱 I’m currently learning Unreal Engine, Rust
+- 🌱 I’m currently learning Unreal Engine
 - 📫 How to reach me telegram: @Po_M20
